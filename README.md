@@ -1,2 +1,2 @@
-# JavaScript-Practice-2020
-JavaScript Course
+# JavaScript Practice 2020
+## Muhammad Ali
